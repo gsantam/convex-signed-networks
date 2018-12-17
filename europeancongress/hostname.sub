@@ -1,0 +1,22 @@
+#!/bin/bash
+##########################################
+# Options and parameters for SGE:
+##########################################
+# (1) Name of the job to identify (flag -N)
+# The parameter passed to -N is an alias to the script
+# -----------------------------------------
+#$ -N EuropeanCongress
+#
+# (2) We'll redirect the output files to
+# our working directory (flags -cwd, -e, -o)
+# ---------------------------------------
+#$ -cwd
+#$ -o __exe2.out
+#$ -e __exe2.err
+#$ -q default.q
+#$ -cwd
+# -M santamaria.guille@gmail.com
+#$ -m ea
+# (3)Finally, we call the script
+# -------------------------------
+./run.sh

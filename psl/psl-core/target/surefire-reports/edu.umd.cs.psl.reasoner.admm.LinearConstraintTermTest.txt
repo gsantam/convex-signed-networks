@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.umd.cs.psl.reasoner.admm.LinearConstraintTermTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec

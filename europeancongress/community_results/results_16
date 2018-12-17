@@ -1,0 +1,39 @@
+Number of stablished communties: 4
+First vertices:  560 467 484
+Number of balanced edges: 197828
+Number of unbalanced edges: 6561
+Proportion of balanced edges: 0.967899446643
+Proportion of unbalanced edges: 0.0321005533566
+
+NI
+2: 0.921568627451
+1: 0.078431372549
+----------------
+ALDE/ADLE
+0: 0.984375
+1: 0.015625
+----------------
+Greens/EFA
+0: 1.0
+----------------
+ECR
+1: 0.461538461538
+2: 0.430769230769
+0: 0.107692307692
+----------------
+GUE-NGL
+1: 0.82
+2: 0.14
+0: 0.04
+----------------
+S&D
+0: 1.0
+----------------
+EPP
+0: 1.0
+----------------
+EFDD
+2: 0.625
+1: 0.3125
+0: 0.0625
+----------------

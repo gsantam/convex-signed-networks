@@ -13,7 +13,7 @@ install psl (included here) and if you want to additionally compare with other
 inference methods, such as max prod belief propagation or junction tree, you
 need to install the libDAI library (also included here)
 
-The directory europeanCongressData/ (~500 Mb) contains the votings of the EU
+The directory europeanCongressData/ with the entire data (~500 Mb) can be found [here](https://zenodo.org/record/345950#.XBgqqhNKhQI) and contains the votings of the EU
 parlament, including 300 votings events from the actual term, from May 2014 to
 June 2015, obtained from http://www.votewatch.eu/
 

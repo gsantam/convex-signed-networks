@@ -3,7 +3,7 @@
 This repository contains the necessary tools to reproduce the experiments of
 the paper
 
-* G. Santatmaría, V. Gómez (2015)
+* G. Santamaría, V. Gómez (2015)
   Convex inference for community discovery in signed networks
   NIPS 2015 Workshop: Networks in the Social and Information Sciences
 

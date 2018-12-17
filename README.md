@@ -103,5 +103,5 @@ Guillermo Santamaria & Vicenc Gomez
 Mar 5, 2017
 -----------------------------------
 
-For further questions, please contact vicen.gomez@upf.edu
+For further questions, please contact vicen.gomez@upf.edu or santamaria.guille@gmail.com
 
